@@ -3,12 +3,23 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-### Step 2: 
-### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
-### Step 4: 
-### Step 5: 
+## Step 1:
+start the program
+
+## Step 2:
+get into the input from the user usind eval(input())
+
+## Step 3:
+Get the value from the user for the number of rotation
+
+## Step 4:
+Using the slicing concept rotate the list
+
+## Step 5:
+using concentration operation display the entire rotated list
+
+## Step 6:
+stop the program
 ### PROGRAM:
 ```
  #Program to find the distance between two points.
